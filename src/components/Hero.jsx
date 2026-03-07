@@ -35,7 +35,7 @@ export default function Hero() {
       <div className="flex-1 flex flex-col px-4 md:px-8">
         <div className="flex-[1] flex items-start justify-start pt-16 md:pt-24 w-full ">
           <div className="text-left max-w-md">
-            <h1 className="text-[5.5rem] pt-16 md:text-[8rem] lg:text-[7rem] font-bold leading-[0.85] tracking-tight" style={{ fontFamily: 'Cabinet Grotesk, sans-serif' }}>
+            <h1 className="text-[5.5rem] pt-16  md:text-[8rem] lg:text-[7rem] font-bold leading-[0.85] tracking-tight" style={{ fontFamily: 'Cabinet Grotesk, sans-serif' }}>
               Hi I do<br />motion different
             </h1>
             <p className="mt-4 md:mt-6 text-sm text-[var(--text-secondary)] max-w-md leading-relaxed">
