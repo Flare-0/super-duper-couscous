@@ -4,6 +4,7 @@ import Hero from '../components/Hero'
 import Work from '../components/Work'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
+import { Analytics } from "@vercel/analytics/react"
 
 function Home() {
   const [isDark, setIsDark] = useState(true)
@@ -21,6 +22,8 @@ function Home() {
   }
 
   return (
+    <>
+          <Analytics />
     <div className="min-h-screen">
       <Nav isDark={isDark} toggleTheme={toggleTheme} />
       <main className="border-x border-[var(--border-color)] md:max-w-[55vw] md:mx-auto">
@@ -32,6 +35,7 @@ function Home() {
         <Footer />
       </div>
     </div>
+    </>
   )
 }
 
