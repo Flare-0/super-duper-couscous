@@ -70,7 +70,7 @@ body {
   bottom: -4px;
   width: 0;
   height: 4.5px;
-  background: linear-gradient(to right, #FBBFFF, #2B75FF);
+  background: #FBBFFF;
   transition: width 0.3s ease, left 0.3s ease;
 }
 
