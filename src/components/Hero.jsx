@@ -69,7 +69,7 @@ export default function Hero() {
             Get in touch
           </a>
           <a
-            href="https://twitter.com/madebymattr_"
+            href="https://twitter.com/labsbymattr"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full md:w-auto flex items-center justify-center px-5 py-4 md:px-8 md:py-4 border border-[var(--border-color)] hover:border-[var(--border-light)] transition-colors text-sm font-semibold"
