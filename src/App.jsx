@@ -41,7 +41,7 @@ function App() {
                 Let's talk →
               </SmoothCorners>
             </a>
-            <div className='flex flex-row gap-1'>
+            <div className='flex mt-2 flex-row gap-1.5 justify-end items-center'>
               <a className='' href='https://x.com/labsbymattr' target='_blank' rel='noopener noreferrer'>
                 <SmoothCorners
                   corners={{ radius: 999, smoothness: 0.6 }}
@@ -58,6 +58,15 @@ function App() {
                   className='px-2 py-0.5 text-sm font-medium text-white backdrop-blur-md  cursor-pointer'
                 >
                   Instagram
+                </SmoothCorners>
+              </a>
+              <a className='' href='mailto:hello@mattr.art' target='_blank' rel='noopener noreferrer'>
+                <SmoothCorners
+                  corners={{ radius: 999, smoothness: 0.6 }}
+                  style={{ backgroundColor: '#FABFFF', display: 'inline-flex', alignItems: 'center' }}
+                  className='px-2 py-0.5 text-sm font-medium text-black backdrop-blur-md  cursor-pointer'
+                >
+                  Email
                 </SmoothCorners>
               </a>
             </div>
