@@ -42,7 +42,7 @@ function App() {
               </SmoothCorners>
             </a>
             <div className='flex mt-2 flex-row gap-1.5 justify-end items-center'>
-              <a className='' href='https://x.com/labsbymattr' target='_blank' rel='noopener noreferrer'>
+              <a className='' href='https://li.mattr.art/x' target='_blank' rel='noopener noreferrer'>
                 <SmoothCorners
                   corners={{ radius: 999, smoothness: 0.6 }}
                   style={{ backgroundColor: '#2B75FF', display: 'inline-flex', alignItems: 'center' }}
@@ -51,7 +51,7 @@ function App() {
                   X
                 </SmoothCorners>
               </a>
-              <a className='' href='https://instagram.com/madebymattr_' target='_blank' rel='noopener noreferrer'>
+              <a className='' href='https://li.mattr.art/insta' target='_blank' rel='noopener noreferrer'>
                 <SmoothCorners
                   corners={{ radius: 999, smoothness: 0.6 }}
                   style={{ backgroundColor: '#2B75FF', display: 'inline-flex', alignItems: 'center' }}
