@@ -26,7 +26,7 @@ function App() {
         <div className="flex flex-col md:m-16 m-8 gap-10 md:gap-5 max-w-82.5 md:p-4 p-2 justify-center items-center">
           <div id='about-sticky' className='flex flex-col gap-3 max-w-82.5'>
             <img src="/mattr.svg" alt="Avatar" className='w-10 h-10 md:w-8 md:h-8' />
-            <p className='text-3xl font-bold tracking-tight text-[var(--text-muted)]'><span className='text-[var(--text-primary)]'>16</span> yo <span className='text-[var(--text-primary)]'>solo Motion designer.</span> I <span className='text-[var(--text-primary)]'>design and animate motion for startups</span> and brands</p>
+            <p className='text-3xl font-bold tracking-tight text-[var(--text-muted)]'><span className='text-[var(--text-primary)]'>17</span> yo <span className='text-[var(--text-primary)]'>solo Motion designer.</span> I <span className='text-[var(--text-primary)]'>design and animate motion for startups</span> and brands</p>
             <p className=' font-semibold tracking-tight text-[var(--text-muted)]'>Launch your next product, I'll take care of the showreel</p>
             <a
               href='https://wa.me/+8801407096332'
